@@ -4,6 +4,7 @@ static const Block blocks[] = {
 	{" ", "check_updates", 3600, 20},
 	{"", "wttr", 1200, 0},
 	{"", "volume", 0, 10},
+	{"", "mem", 60, 0},
 	{"", "disk", 300, 0},
 	{"📅 ", "date '+%a %b %d, %Y %I:%M %p'", 5, 0},
 };
